@@ -1,6 +1,6 @@
 ---
 title: test
-layout: about
+layout: news
 categories: news
 ---
 

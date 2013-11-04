@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: news
 title:  "Welcome to Jekyll!"
 date:   2013-11-04 15:39:41
 categories: news

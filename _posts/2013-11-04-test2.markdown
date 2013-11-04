@@ -1,6 +1,6 @@
 ---
 title: 测试2
-layout: news
+layout: about
 categories: news
 ---
 

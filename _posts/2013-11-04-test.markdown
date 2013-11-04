@@ -1,0 +1,42 @@
+---
+title: test
+layout: default
+categories: news
+---
+
+###Filters
+
+Filters manipulate the output of template variables. For example, if you want to show a customer a price of a $99.00 product and you use the template variable {{ product.price }}, Shopify will display the price as 9900 (in cents). So we need to use a filter to manipulate the output of this template variable.
+
+The syntax for a filter looks like this:
+
+{{ variablename | filtername }}
+Out of all the filters, the money_with_currency filter makes the most sense for the example problem. Your code should look like this:
+
+> {{ product.price | money_with_currency }}
+> Which will return this: $99.00 USD.
+
+Find out more about:
+
+* HTML Filters
+* Math Filters
+* Manipulation filters
+* Money filters
+* URL filters
+* HTML Filters
+
+###img_tag
+
+Generates an image tag.
+
+{{ 'image-name.gif' | asset_url | img_tag }}
+script_tag
+
+Generates a script tag.
+
+{{ 'shop.js' | asset_url | script_tag }}
+stylesheet_tag
+
+Generates a stylesheet tag.
+
+{{ 'shop.css' | asset_url | stylesheet_tag }}

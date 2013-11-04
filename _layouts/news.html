@@ -3,7 +3,7 @@ layout: about
 ---
 <div>
 	<h3>{{ page.title }}</h3>
-	{{ page.date }}
+	{{ page.date | date: "%y, %m, %d" }}
 	<hr/>
 </div>
 <div>{{ content }}</div>

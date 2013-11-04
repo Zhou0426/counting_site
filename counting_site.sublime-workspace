@@ -131,9 +131,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 71.0,
 		"selected_items":
 		[
+			[
+				"s markd",
+				"Set Syntax: Markdown"
+			],
 			[
 				"mar",
 				"Set Syntax: Markdown"
@@ -263,6 +267,16 @@
 	},
 	"file_history":
 	[
+		"/Users/congjunbon/Documents/github/counting_site/about/news.html",
+		"/Users/congjunbon/Documents/github/counting_site/_layouts/news.html",
+		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test2.markdown",
+		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test.markdown",
+		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-welcome-to-jekyll.markdown",
+		"/Users/congjunbon/Documents/github/counting_site/_config.yml",
+		"/Users/congjunbon/Documents/github/counting_site/_layouts/about.html",
+		"/Users/congjunbon/Documents/github/counting_site/_layouts/default.html",
+		"/Users/congjunbon/Documents/github/counting_site/_layouts/product.html",
+		"/Users/congjunbon/Documents/github/counting_site/index.html",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/customer.html",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/buy.html",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/buy.html",

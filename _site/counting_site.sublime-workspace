@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"h",
+				"href	Attr"
+			],
+			[
 				"product",
 				"products_id"
 			],
@@ -62,10 +66,6 @@
 			[
 				"co",
 				"color"
-			],
-			[
-				"h",
-				"height	Attr"
 			],
 			[
 				"mar",
@@ -127,21 +127,17 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/congjunbon/Documents/StaticSite/Chunteng/index.html",
-			"settings":
-			{
-				"buffer_size": 2744,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 49.0,
+		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -231,7 +227,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 435.0
+		"width": 561.0
 	},
 	"console":
 	{
@@ -267,6 +263,35 @@
 	},
 	"file_history":
 	[
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/customer.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/buy.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/buy.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/support.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/support.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/customer.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/default.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/about.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/product.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/product/qt.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/product/qtcloud.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/index.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/about/news.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/about/joinus.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/about/intro.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/about/business.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/js/bootstrap.js",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/js/jquery.js",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_posts/2013-11-04-test2.markdown",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/css/bootstrap-theme.css",
+		"/Users/congjunbon/Documents/StaticSite/Chunteng/chunteng.sublime-project",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_posts/2013-11-04-test.markdown",
+		"/Users/congjunbon/Documents/github/jekyll/lib/jekyll/post.rb",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/category_index.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_config.yml",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/plugin/categories_plugin.rb",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/categories_index.html",
+		"/Users/congjunbon/Documents/StaticSite/Chunteng/index.html",
+		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_site/index.html",
 		"/Users/congjunbon/Documents/ruby_projects/cashflow/app/models/base.rb",
 		"/Users/congjunbon/Documents/ruby_projects/cashflow/Gemfile",
 		"/Users/congjunbon/Documents/ruby_projects/cashflow/config/application.rb",
@@ -281,7 +306,6 @@
 		"/Users/congjunbon/Documents/github/about/index.html",
 		"/Users/congjunbon/Documents/github/about/_layouts/default.html",
 		"/Users/congjunbon/Documents/StaticSite/Chunteng/css/bootstrap.css",
-		"/Users/congjunbon/Documents/StaticSite/Chunteng/index.html",
 		"/Users/congjunbon/Documents/StaticSite/Chunteng/css/bootstrap-theme.css",
 		"/Users/congjunbon/Documents/github/about/_config.yml",
 		"/Users/congjunbon/Desktop/jekyll默认配置.txt",
@@ -342,6 +366,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"media",
+			"col-md-1",
+			".row",
 			"rake",
 			"actionpack",
 			"railtie",
@@ -401,38 +428,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/congjunbon/Documents/StaticSite/Chunteng/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2744,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2048,
-								2048
-							]
-						],
-						"settings":
-						{
-							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 195.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -479,7 +476,7 @@
 	{
 		"height": 100.0
 	},
-	"project": "chuntngsite.sublime-project",
+	"project": "counting_site.sublime-project",
 	"replace":
 	{
 		"height": 42.0

@@ -8,6 +8,10 @@
 		{
 			"follow_symlinks": true,
 			"path": "/Users/congjunbon/Documents/github/counting_site"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/congjunbon/Documents/github/congjf.github.io"
 		}
 	]
 }

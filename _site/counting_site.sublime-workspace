@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"u",
+				"ul	HTML - Unordered list"
+			],
+			[
 				"h",
 				"href	Attr"
 			],
@@ -127,6 +131,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "about/news.html",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -267,11 +279,11 @@
 	},
 	"file_history":
 	[
-		"/Users/congjunbon/Documents/github/counting_site/about/news.html",
 		"/Users/congjunbon/Documents/github/counting_site/_layouts/news.html",
-		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test2.markdown",
-		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test.markdown",
 		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-welcome-to-jekyll.markdown",
+		"/Users/congjunbon/Documents/github/counting_site/about/news.html",
+		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test.markdown",
+		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test2.markdown",
 		"/Users/congjunbon/Documents/github/counting_site/_config.yml",
 		"/Users/congjunbon/Documents/github/counting_site/_layouts/about.html",
 		"/Users/congjunbon/Documents/github/counting_site/_layouts/default.html",
@@ -442,8 +454,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "about/news.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -131,21 +131,17 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "about/news.html",
-			"settings":
-			{
-				"buffer_size": 294,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 71.0,
+		"height": 93.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"s markd",
 				"Set Syntax: Markdown"
@@ -153,10 +149,6 @@
 			[
 				"mar",
 				"Set Syntax: Markdown"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"Snippet: ",
@@ -243,7 +235,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 561.0
+		"width": 516.0
 	},
 	"console":
 	{
@@ -279,16 +271,27 @@
 	},
 	"file_history":
 	[
+		"/Users/congjunbon/Documents/github/counting_site/_layouts/about.html",
+		"/Users/congjunbon/Documents/github/counting_site/index.html",
+		"/Users/congjunbon/Documents/github/counting_site/about/news.html",
+		"/Users/congjunbon/Documents/github/counting_site/_layouts/product.html",
+		"/Users/congjunbon/Documents/github/counting_site/_layouts/default.html",
+		"/Users/congjunbon/Documents/github/jekyll/lib/jekyll/plugin.rb",
+		"/Users/congjunbon/Documents/github/jekyll/lib/jekyll/page.rb",
+		"/Users/congjunbon/Documents/github/counting_site/product/qtcloud.html",
+		"/Users/congjunbon/Documents/github/counting_site/product/qt.html",
+		"/Users/congjunbon/Documents/github/counting_site/other/customer.html",
+		"/Users/congjunbon/Documents/github/counting_site/CNAME",
+		"/Users/congjunbon/Documents/github/counting_site/other/support.html",
+		"/Users/congjunbon/Documents/github/counting_site/other/buy.html",
+		"/Users/congjunbon/Documents/github/counting_site/about/joinus.html",
+		"/Users/congjunbon/Documents/github/counting_site/about/business.html",
+		"/Users/congjunbon/Documents/github/counting_site/about/intro.html",
 		"/Users/congjunbon/Documents/github/counting_site/_layouts/news.html",
 		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-welcome-to-jekyll.markdown",
-		"/Users/congjunbon/Documents/github/counting_site/about/news.html",
 		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test.markdown",
 		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test2.markdown",
 		"/Users/congjunbon/Documents/github/counting_site/_config.yml",
-		"/Users/congjunbon/Documents/github/counting_site/_layouts/about.html",
-		"/Users/congjunbon/Documents/github/counting_site/_layouts/default.html",
-		"/Users/congjunbon/Documents/github/counting_site/_layouts/product.html",
-		"/Users/congjunbon/Documents/github/counting_site/index.html",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/customer.html",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/buy.html",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/buy.html",
@@ -392,6 +395,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"{{ site.baseurl }}",
+			"index?",
+			"index",
+			"伯俊",
 			"media",
 			"col-md-1",
 			".row",
@@ -454,37 +461,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "about/news.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								294,
-								294
-							]
-						],
-						"settings":
-						{
-							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -519,6 +497,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.9o:///Users/congjunbon/Documents/github/counting_site/_layouts":
+	{
+		"height": 102.0
+	},
 	"output.9o:///Users/congjunbon/Documents/go_libs/src/cjf/golang_learn":
 	{
 		"height": 100.0

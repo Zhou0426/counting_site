@@ -5,6 +5,11 @@
   margin-left: 0px;
 }
 
+.tab-content > .active,
+.pill-content > .active {
+  border: 1px solid transparent;
+}
+
 /* 默认主题内容 */
 .btn-default,
 .btn-primary,

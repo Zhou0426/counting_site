@@ -41,6 +41,10 @@
   padding-right: 10px;
 }
 
+img {
+  max-width: 600px;
+}
+
 /* 默认主题内容 */
 .btn-default,
 .btn-primary,

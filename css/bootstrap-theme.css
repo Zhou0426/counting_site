@@ -7,7 +7,23 @@
 
 .tab-content > .active,
 .pill-content > .active {
-  border: 1px solid transparent;
+  border: 1px solid #dddddd;
+  border-radius: 0 0 4px 4px;
+  border-top: none;
+}
+
+#company_intro {
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
+
+#bottom_info {
+  padding: 14px;
+}
+
+#header {
+  padding-top: 5px;
+  padding-bottom:5px;
 }
 
 /* 默认主题内容 */
@@ -171,6 +187,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff8f8f8', GradientType=0);
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 5px rgba(0, 0, 0, 0.075);
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 5px rgba(0, 0, 0, 0.075);
+  margin-bottom: 10px;
 }
 
 .navbar .navbar-nav > .active > a {

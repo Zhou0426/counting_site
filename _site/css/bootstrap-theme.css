@@ -17,6 +17,15 @@
   border-radius: 4px;
 }
 
+#product_title {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+#product_title h4 {
+  margin-bottom: 5px;
+}
+
 #bottom_info {
   padding: 14px;
 }
@@ -24,6 +33,12 @@
 #header {
   padding-top: 5px;
   padding-bottom:5px;
+}
+
+.tab-content .tab-pane {
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 /* 默认主题内容 */

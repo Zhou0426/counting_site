@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"max",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mr",
+				"margin-bottom"
+			],
+			[
 				"u",
 				"ul	HTML - Unordered list"
 			],
@@ -44,10 +80,6 @@
 				"part_number"
 			],
 			[
-				"p",
-				"part_number"
-			],
-			[
 				"ad",
 				"add_column"
 			],
@@ -70,10 +102,6 @@
 			[
 				"co",
 				"color"
-			],
-			[
-				"mar",
-				"margin-right"
 			],
 			[
 				"m",
@@ -271,14 +299,18 @@
 	},
 	"file_history":
 	[
+		"/Users/congjunbon/Documents/github/counting_site/index.html",
+		"/Users/congjunbon/Documents/github/counting_site/product/qtcloud.html",
+		"/Users/congjunbon/Documents/github/counting_site/css/bootstrap.css",
+		"/Users/congjunbon/Documents/github/counting_site/css/bootstrap-theme.css",
 		"/Users/congjunbon/Documents/github/counting_site/_layouts/default.html",
+		"/Users/congjunbon/Documents/github/counting_site/_config.yml",
+		"/Users/congjunbon/Desktop/test.go",
 		"/Users/congjunbon/Documents/github/counting_site/about/intro.html",
 		"/Users/congjunbon/Documents/github/counting_site/about/business.html",
-		"/Users/congjunbon/Documents/github/counting_site/product/qtcloud.html",
 		"/Users/congjunbon/Documents/github/counting_site/product/qt.html",
 		"/Users/congjunbon/Documents/github/counting_site/about/joinus.html",
 		"/Users/congjunbon/Documents/github/counting_site/_layouts/about.html",
-		"/Users/congjunbon/Documents/github/counting_site/index.html",
 		"/Users/congjunbon/Documents/github/counting_site/about/news.html",
 		"/Users/congjunbon/Documents/github/counting_site/_layouts/product.html",
 		"/Users/congjunbon/Documents/github/jekyll/lib/jekyll/plugin.rb",
@@ -291,7 +323,6 @@
 		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-welcome-to-jekyll.markdown",
 		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test.markdown",
 		"/Users/congjunbon/Documents/github/counting_site/_posts/2013-11-04-test2.markdown",
-		"/Users/congjunbon/Documents/github/counting_site/_config.yml",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/customer.html",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/other/buy.html",
 		"/Users/congjunbon/Documents/StaticSite/chunteng_site/_layouts/buy.html",
@@ -395,6 +426,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"img",
+			"nav-tabs",
+			"navbar-default",
+			"navbar",
+			"nav-tabs",
+			"tab-pane",
+			"border",
+			"bolder",
 			"<p>",
 			"{{ site.baseurl }}",
 			"index?",

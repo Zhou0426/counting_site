@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"hei",
+				"min-height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
 				"max",
 				"max-width"
 			],
@@ -299,6 +323,14 @@
 	},
 	"file_history":
 	[
+		"/Users/congjunbon/Library/Rime/user.yaml",
+		"/Users/congjunbon/Documents/github/congjf.github.io/index.html",
+		"/Users/congjunbon/Documents/github/congjf.github.io/css/app.css",
+		"/Users/congjunbon/Documents/github/congjf.github.io/_layouts/default.html",
+		"/Users/congjunbon/Documents/github/congjf.github.io/css/bootstrap.css",
+		"/Users/congjunbon/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/congjunbon/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/congjunbon/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 		"/Users/congjunbon/Documents/github/counting_site/other/support.html",
 		"/Users/congjunbon/Documents/github/counting_site/index.html",
 		"/Users/congjunbon/Documents/github/counting_site/_layouts/default.html",
@@ -426,6 +458,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"thumbnail",
+			"wrap",
 			"img",
 			"nav-tabs",
 			"navbar-default",
@@ -552,6 +586,10 @@
 	"output.exec":
 	{
 		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
 	},
 	"project": "counting_site.sublime-project",
 	"replace":
